@@ -1,0 +1,6 @@
+{
+  "name": "AI Lead Outreach & Audit System",
+  "description": "Enterprise-grade lead categorization, score analyzer, custom website/SEO auditor, and personalized multi-channel outreach sequence generator for Syed Shahrukh Anwar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
